@@ -1,4 +1,4 @@
-# SampleApp experoment with rails
+# SampleApp experiment with rails
 
 To get started with the app, clone the repo and installed the gems required:
 
