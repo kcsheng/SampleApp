@@ -1,4 +1,4 @@
-kc:
+kc: # rails automatically hash the label as id. In this case { id: 'kc' }
   name: KC Sheng
   email: kc@example.com
   password_digest: <%= User.digest('password') %>
